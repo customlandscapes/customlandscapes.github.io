@@ -1,0 +1,16 @@
+# User config
+author: "Custom Pools & Landscapes of Richmond"
+tagline: "Pineapple Certfied Jekyll Theme"
+description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
+keywords: "Pool installation, Landscaping, Hardscaping"
+email: "jbf3@customlandscapesofrichmond.com"
+facebook: "https://www.facebook.com/CustomPoolsLandscapesRVA/"
+instagram: "https://www.instagram.com/custompoolsandlandscapesofrva/"
+houzz: "https://www.houzz.com/professionals/swimming-pool-builders/custom-pools-and-landscapes-of-richmond-pfvwus-pf~1350566327"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed

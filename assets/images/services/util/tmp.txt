@@ -1,0 +1,43 @@
+
+<div class="carousel-inner">
+    <div class="item active carousel-crop" style="background-image:url('images/services/grading-and-site-work/Grading.jpg')">
+    </div>
+    <div class="item carousel-crop" style="background-image:url('images/services/grading-and-site-work/Grading (2).jpg')">
+    </div>
+    <div class="item carousel-crop" style="background-image:url('images/services/grading-and-site-work/Grading for Pool.jpg')">
+    </div>
+</div>
+
+
+<div class="col-sm-3 col-xs-6 blueimp-links">
+    <a href="images/services/grading-and-site-work/Grading.jpg" title="Grading" data-gallery>
+        <div class="extra-crop img-responsive img-hover img-related" style="background-image:url('images/services/grading-and-site-work/Grading.jpg')"></div>
+    </a>
+</div>
+
+<div class="col-sm-3 col-xs-6 blueimp-links">
+    <a href="images/services/grading-and-site-work/Grading (2).jpg" title="Grading (2)" data-gallery>
+        <div class="extra-crop img-responsive img-hover img-related" style="background-image:url('images/services/grading-and-site-work/Grading (2).jpg')"></div>
+    </a>
+</div>
+
+<div class="col-sm-3 col-xs-6 blueimp-links">
+    <a href="images/services/grading-and-site-work/Grading for Pool.jpg" title="Grading for Pool" data-gallery>
+        <div class="extra-crop img-responsive img-hover img-related" style="background-image:url('images/services/grading-and-site-work/Grading for Pool.jpg')"></div>
+    </a>
+</div>
+
+<div class="col-sm-3 col-xs-6 blueimp-links">
+    <a href="images/services/grading-and-site-work/Planning.jpg" title="Planning" data-gallery>
+        <div class="extra-crop img-responsive img-hover img-related" style="background-image:url('images/services/grading-and-site-work/Planning.jpg')">
+            <div class="overlay-text-services">
+                <span class="overlay-span">More</span>
+            </div>
+        </div>
+    </a>
+   <a href="images/services/grading-and-site-work/Beginning to Grade.jpg" title="Beginning to Grade" data-gallery></a>
+   <a href="images/services/grading-and-site-work/Grading (3).jpg" title="Grading (3)" data-gallery></a>
+   <a href="images/services/grading-and-site-work/Grading (4).jpg" title="Grading (4)" data-gallery></a>
+   <a href="images/services/grading-and-site-work/Grading for Pool.mov" title="Grading for Pool" data-gallery></a>
+   <a href="images/services/grading-and-site-work/Plant Removal.jpg" title="Plant Removal" data-gallery></a>
+</div>
