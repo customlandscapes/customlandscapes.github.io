@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: About
-  link: /
-- name: Contact
+- name: Services
   link: /

@@ -1,0 +1,14 @@
+.carousel-section {
+    padding-top: 3.5rem;
+    padding-bottom: 10rem;
+}
+
+.carousel-item {
+    height: 40vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

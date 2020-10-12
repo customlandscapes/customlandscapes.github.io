@@ -1,0 +1,9 @@
+- url: /assets/images/index/banner1.jpg
+  name: First Slide
+  description: This is a description for the first slide.
+- url: /assets/images/index/banner2.jpg
+  name: Second Slide
+  description: This is a description for the second slide.
+- url: /assets/images/index/banner3.jpg
+  name: Third Slide
+  description: This is a description for the third slide.
