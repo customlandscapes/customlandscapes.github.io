@@ -14,3 +14,8 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+plugins:
+  - jekyll-autoprefixer
+  - jekyll-seo-tag
+  - jekyll-sitemap
+google_analytics: UA-111111111-1
