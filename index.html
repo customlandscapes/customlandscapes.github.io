@@ -13,6 +13,7 @@
 	{% include header.html %}
 	<main class="content">
 		{% include carousel.html %}
+		<a id="about"></a>
 		<section class="intro">
 			<div class="container">
 				<h2>About Us.</h2>
@@ -23,9 +24,10 @@
 				<p>It's simple: One company. One contract. No worries.</p>
 			</div>
 		</section>
+		<a id="services"></a>
 		<section class="services">
 			<div class="container">
-				<h2>Services I have worked on.</h2>
+				<h2>Services We Offer.</h2>
 				<ul class="services-list">
 					{% for item in site.categories.services reversed %}
 						<li>
@@ -39,6 +41,13 @@
 						</li>
 					{% endfor %}
 				</ul>
+			</div>
+		</section>
+		<a id="contact"></a>
+		<section class="intro">
+			<div class="container">
+				<h2>Contact Us.</h2>
+				<p>Contact form placeholder.</p>
 			</div>
 		</section>
 	</main>

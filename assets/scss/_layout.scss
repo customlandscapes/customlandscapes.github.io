@@ -148,6 +148,7 @@
 }
 
 .service {
+	padding: 30rem 0 0;
 	left: 0;
 	position: relative;
 	top: 0;
@@ -366,4 +367,16 @@
 .contact,
 .follow {
 	margin-bottom: 3rem;
+}
+
+.navbar {
+	padding: 2rem !important;
+	a {
+		color: $color-silver-chalice;
+		font-family: $font-lekton;
+		font-size: 2rem;
+		font-weight: 400;
+		letter-spacing: .2rem;
+		text-transform: uppercase;
+	}
 }

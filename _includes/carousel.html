@@ -4,9 +4,9 @@
         <ol class="carousel-indicators">
             {% for item in site.data.carousel %}
                 {% if forloop.first == true %}
-                    <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index0 }}" class="active"></li>
                 {% else %}
-                    <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index }}"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index0 }}"></li>
                 {% endif %}
             {% endfor %}
         </ol>
@@ -15,19 +15,18 @@
                 {% if forloop.first == true %}
                     <div class="carousel-item active"
                     style="background-image: url('{{item.url}}')">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h2 class="display-4">{{item.name}}</h2>
-                            <p class="lead">{{item.description}}
-                            </p>
+                        <div class="carousel-caption d-md-block">
+                            <img class="carousel-logo" src='/assets/images/header/logo-w-date.png'></img>
                         </div>
                     </div>
                 {% else %}
                     <div class="carousel-item"
                     style="background-image: url('{{item.url}}')">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h2 class="display-4">{{item.name}}</h2>
+                        <div class="carousel-caption d-md-block">
+                            <!-- <h2 class="display-4">{{item.name}}</h2>
                             <p class="lead">{{item.description}}
-                            </p>
+                            </p> -->
+                            <img class="carousel-logo" src='/assets/images/header/logo-w-date.png'></img>
                         </div>
                     </div>
                 {% endif %}

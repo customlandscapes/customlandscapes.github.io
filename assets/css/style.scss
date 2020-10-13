@@ -3,6 +3,8 @@
 
 @charset "UTF-8";
 
+@import "bootstrap/bootstrap";
+
 @import "variables";
 @import "mixins";
 @import "normalize";
@@ -11,5 +13,3 @@
 @import "layout";
 @import "syntax";
 @import "carousel";
-
-@import "bootstrap/bootstrap";
